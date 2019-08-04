@@ -1,2 +1,2 @@
-# noise_circles
-perlin noisy circles with changing hue
+# 1_squares
+making offset harmonic motion
